@@ -1,0 +1,8 @@
+astpretty
+pre-commit
+pytest
+flake8
+precisely
+mypy
+build
+twine
